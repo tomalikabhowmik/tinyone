@@ -1,10 +1,24 @@
 body {
     margin: 0;
     padding: 0;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'PT Sans', sans-serif;
 }
 
 html {
     scroll-behavior: smooth;
 }
+/*header area start*/
+.header-area{
+    background:#fcdb00;
+    padding:20px;
+}
+.menu ul li a{
+    font-weight: 700;
+    font-size: 25px;
+    color:#010101 !important;
+}
+.menu ul li{
+    padding:0px 35px;
+}
+/*header area end*/
 
