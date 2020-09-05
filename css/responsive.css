@@ -1,16 +1,503 @@
 /*Extra small device(smart phones, less than 361px)*/
-@media (max-width: 360.98px) {}
+@media (min-width: 320px) and (max-width: 360.98px) {
+
+    /*header area start*/
+    .header-area {
+        padding: 5px 5px;
+    }
+
+    .header-area img {
+        margin-left: 1px;
+    }
+
+    .navbar-toggler-icon {
+        width: 16px;
+        height: 19px;
+    }
+
+    .navbar-light .navbar-toggler {
+        background-color: #f6fac6;
+    }
+
+    .navbar-light .navbar-toggler:hover {
+        background-color: #f7e572;
+    }
+
+    .menu ul {
+        margin-top: 20px;
+    }
+
+    .menu ul li a {
+        font-size: 18px;
+        color: #3b3a3a !important;
+    }
+
+    .menu a:hover {
+        color: #f5f1f1 !important;
+    }
+
+    .menu ul li :hover {
+        background-color: black;
+        width: 50%;
+        padding: 5px;
+    }
+
+    /*header area end*/
+
+    /*slider area start*/
+    .slider-area {
+        padding: 5px 0px 50px 0px;
+    }
+
+    .Inspire {
+        margin: 20px 0px 20px 10px;
+        text-align: center;
+    }
+
+    .Inspire h1 {
+        font-size: 24px;
+        padding-bottom: 5px;
+    }
+
+    .Inspire h4 {
+        font-size: 13px;
+        width: 94%;
+        padding-bottom: 5px;
+        padding-left: 11px;
+    }
+
+    .Inspire p {
+        font-size: 9px;
+        width: 90%;
+        padding-bottom: 5px;
+        padding-left: 22px;
+    }
+
+    .Inspire ul li i {
+        font-size: 20px;
+    }
+
+    .Inspire i {
+        margin-right: 10px;
+    }
+
+    .Inspire .third {
+        font-size: 20px;
+    }
+
+    .Inspire .first {
+        font-size: 23px;
+    }
+
+    .slider-image img {
+        width: 46%;
+        margin-left: 80px;
+    }
+
+    .carousel-indicators {
+        bottom: -60px;
+    }
+
+    .carousel-indicators li {
+        width: 10px;
+        height: 10px;
+        border-radius: 50%;
+        margin-top: 80px;
+    }
+
+    .header-area .img-fluid {
+        max-width: 66%;
+    }
+
+    /*slider area end*/
+}
 
 /*Extra small device(portrant phones, 361px and up)*/
-@media (min-width: 361px) and (max-width: 575.98px) {}
+@media (min-width: 480px) and (max-width: 575.98px) {
+
+    /*header area start*/
+    .header-area {
+        padding: 5px 5px;
+    }
+
+    .header-area img {
+        margin-left: 1px;
+    }
+
+    .navbar-toggler-icon {
+        width: 16px;
+        height: 19px;
+    }
+
+    .navbar-light .navbar-toggler {
+        background-color: #f6fac6;
+    }
+
+    .navbar-light .navbar-toggler:hover {
+        background-color: #f7e572;
+    }
+
+    .menu ul {
+        margin-top: 20px;
+    }
+
+    .menu ul li a {
+        font-size: 18px;
+        color: #3b3a3a !important;
+    }
+
+    .menu a:hover {
+        color: #f5f1f1 !important;
+    }
+
+    .menu ul li :hover {
+        background-color: black;
+        width: 25%;
+        padding: 5px;
+    }
+
+    /*header area end*/
+
+    /*slider area start*/
+    .slider-area {
+        padding: 5px 0px 50px 0px;
+    }
+
+    .Inspire {
+        margin: 20px 0px 20px 10px;
+        text-align: center;
+    }
+
+    .Inspire h1 {
+        font-size: 30px;
+        padding-bottom: 5px;
+    }
+
+    .Inspire h4 {
+        font-size: 15px;
+        width: 82%;
+        padding-bottom: 5px;
+        padding-left: 70px;
+    }
+
+    .Inspire p {
+        font-size: 11px;
+        width: 87%;
+        padding-bottom: 5px;
+        padding-left: 36px;
+    }
+
+    .Inspire ul li i {
+        font-size: 23px;
+    }
+
+    .Inspire i {
+        margin-right: 10px;
+    }
+
+    .Inspire .third {
+        font-size: 20px;
+    }
+
+    .Inspire .first {
+        font-size: 23px;
+    }
+
+    .slider-image img {
+        width: 46%;
+        margin-left: 119px;
+    }
+
+    .carousel-indicators {
+        bottom: -60px;
+    }
+
+    .carousel-indicators li {
+        width: 10px;
+        height: 10px;
+        border-radius: 50%;
+        margin-top: 80px;
+    }
+
+    /*slider area end*/
+}
 
 /*Small device(landscape phones, 576px and up)*/
-@media (min-width: 576px) and (max-width: 767.98px) {}
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+    /*header area start*/
+    .header-area img {
+        margin-left: 5px;
+    }
+
+    .navbar-toggler-icon {
+        width: 16px;
+        height: 19px;
+    }
+
+    .navbar-light .navbar-toggler {
+        background-color: #f6fac6;
+    }
+
+    .navbar-light .navbar-toggler:hover {
+        background-color: #f7e572;
+    }
+
+    .menu ul {
+        margin-top: 20px;
+    }
+
+    .menu ul li a {
+        font-size: 18px;
+        color: #3b3a3a !important;
+    }
+
+    .menu a:hover {
+        color: #f5f1f1 !important;
+    }
+
+    .menu ul li :hover {
+        background-color: black;
+        width: 20%;
+        padding: 5px;
+    }
+
+    /*header area end*/
+
+    /*slider area start*/
+    .slider-area {
+        padding: 20px 0px 30px 0px;
+    }
+
+    .Inspire {
+        margin: 20px 0px 0px 10px;
+    }
+
+    .Inspire h1 {
+        font-size: 16px;
+        padding-bottom: 5px;
+    }
+
+    .Inspire h4 {
+        font-size: 10px;
+        width: 95%;
+        padding-bottom: 5px;
+    }
+
+    .Inspire p {
+        font-size: 7px;
+        width: 98%;
+        padding-bottom: 5px;
+    }
+
+    .Inspire ul li i {
+        font-size: 23px;
+    }
+
+    .Inspire i {
+        margin-right: 10px;
+    }
+
+    .Inspire .third {
+        font-size: 20px;
+    }
+
+    .Inspire .first {
+        font-size: 23px;
+    }
+
+    .slider-image img {
+        width: 80%;
+    }
+
+    .carousel-indicators {
+        bottom: -40px;
+    }
+
+    .carousel-indicators li {
+        width: 10px;
+        height: 10px;
+        border-radius: 50%;
+        margin-top: 80px;
+    }
+
+    /*slider area end*/
+}
 
 /*medium device(tablets, 768px and up)*/
-@media (min-width: 768px) and (max-width: 991.98px) {}  
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+    /*header area start*/
+    .header-area img {
+        margin-left: 5px;
+    }
+
+    .navbar-toggler-icon {
+        width: 22px;
+        height: 25px;
+    }
+
+    .navbar-light .navbar-toggler {
+        background-color: #f6fac6;
+    }
+
+    .navbar-light .navbar-toggler:hover {
+        background-color: #f7e572;
+    }
+
+    .menu ul {
+        margin-top: 20px;
+    }
+
+    .menu ul li a {
+        font-size: 20px;
+        color: #3b3a3a !important;
+    }
+
+    .menu a:hover {
+        color: #f5f1f1 !important;
+    }
+
+    .menu ul li :hover {
+        background-color: black;
+        width: 20%;
+        padding: 5px;
+    }
+
+    /*header area end*/
+
+    /*slider area start*/
+    .Inspire {
+        margin: 50px 0px 0px 10px;
+    }
+
+    .Inspire h1 {
+        font-size: 25px;
+        padding-bottom: 5px;
+    }
+
+    .Inspire h4 {
+        font-size: 15px;
+        width: 90%;
+        padding-bottom: 5px;
+    }
+
+    .Inspire p {
+        font-size: 10px;
+        width: 98%;
+    }
+
+    .Inspire ul li i {
+        font-size: 23px;
+    }
+
+    .Inspire i {
+        margin-right: 10px;
+    }
+
+    .Inspire .third {
+        font-size: 25px;
+    }
+
+    .Inspire .first {
+        font-size: 25px;
+    }
+
+    .slider-image img {
+        width: 80%;
+    }
+
+    .carousel-indicators li {
+        width: 10px;
+        height: 10px;
+        border-radius: 50%;
+        margin-top: 80px;
+    }
+
+    /*slider area end*/
+}
+
 /*large device(desktops, 992px and up)*/
-@media (min-width: 992px) and (max-width: 1199.98px) {}
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+    /*header area start*/
+    .menu ul li a {
+        font-size: 18px;
+        color: #3b3a3a !important;
+    }
+
+    .menu a:hover {
+        color: #f5f1f1 !important;
+    }
+
+    .menu ul li :hover {
+        background-color: black;
+        width: 100%;
+        padding: 5px;
+    }
+
+    /*header area end*/
+    /*slider area start*/
+    .Inspire {
+        margin: 70px 0px 0px 50px;
+    }
+
+    .Inspire h1 {
+        font-size: 30px;
+    }
+
+    .Inspire h4 {
+        font-size: 18px;
+        width: 90%;
+    }
+
+    .Inspire p {
+        font-size: 13px;
+        width: 100%;
+    }
+
+    .Inspire ul li i {
+        font-size: 25px;
+    }
+
+    .Inspire i {
+        margin-right: 10px;
+    }
+
+    .Inspire .third {
+        font-size: 30px;
+    }
+
+    .Inspire .first {
+        font-size: 30px;
+    }
+
+    .slider-image img {
+        width: 80%;
+    }
+
+    /*slider area end*/
+
+}
 
 /*Extra large device(large desktops,1200px and up)*/
-@media (min-width: 1200px) {}
+@media (min-width: 1200px) {
+
+    /*header area start*/
+    .menu ul li a {
+        font-size: 18px;
+        color: #3b3a3a !important;
+    }
+
+    .menu a:hover {
+        color: #f5f1f1 !important;
+    }
+
+    .menu ul li :hover {
+        background-color: black;
+        width: 100%;
+        padding: 5px;
+    }
+
+    /*header area end*/
+}
