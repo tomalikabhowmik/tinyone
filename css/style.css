@@ -98,3 +98,49 @@ html {
 }
 
 /*slider-area end*/
+/*featured part start*/
+/*featured-title part start*/
+.featured {
+    padding-bottom: 30px;
+}
+
+.featured-title {
+    text-align: center;
+    padding: 70px 0px;
+}
+
+.featured-title h2 {
+    font-size: 32px;
+    font-weight: 700;
+    margin: 0px 0px 10px 0px;
+}
+
+.featured-title p {
+    font-size: 20px;
+    font-weight: 400;
+    width: 70%;
+    margin: 0px 0px 10px 160px;
+    text-align: center;
+}
+
+/*featured-title part end*/
+/*service part start*/
+.service-area {
+    padding-bottom: 60px;
+    text-align: center;
+}
+
+.icon-contant h3 {
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.icon-contant p {
+    font-size: 16px;
+    font-weight: 400;
+    color: #9c9999;
+    width: 75%;
+}
+
+/*service part end*/
+/*featured part end*/
