@@ -92,6 +92,7 @@
     .slider-image img {
         width: 46%;
         margin-left: 80px;
+        margin-right: 80px;
     }
 
     .carousel-indicators {
@@ -130,6 +131,7 @@
     /*service part start*/
     .service-area {
         padding-bottom: 5px;
+        text-align: center;
     }
 
     .icon-image {
@@ -151,6 +153,78 @@
 
     /*service part end*/
     /*featured part end*/
+    /*contact-part start*/
+    /*contact-title area start*/
+    .contact-title {
+        text-align: center;
+        padding: 50px 0px 25px 0px;
+    }
+
+    .contact-title h1 {
+        font-size: 20px;
+    }
+
+    .contact-title p {
+        font-size: 12px;
+        width: 73%;
+        margin: 0px 0px 5px 36px;
+    }
+
+    /*contact-title area end*/
+    /*input area start*/
+    .input-part input[type="text"] {
+        font-size: 10px;
+        margin-left: 74px;
+    }
+
+    .form-control {
+        width: 51%
+    }
+
+    .btn-castom {
+        margin-left: 118px;
+        margin-right: 118px;
+        font-size: 10px;
+        margin-top: 15px;
+        padding: 5px 10px;
+    }
+
+    /*input area end*/
+    /*social-media-part start*/
+    .social-media-part {
+        padding: 5px 0px;
+    }
+
+    .social-media-part ul li i {
+        background-color: #fcdb00;
+        font-size: 15px;
+        font-weight: 600;
+        width: 20px;
+        height: 20px;
+        padding-top: 4px;
+    }
+
+    /*social-media-part end*/
+    /*contact-part end*/
+    /*footer area start*/
+    .address {
+        text-align: center;
+        padding-bottom: 20px;
+        font-size: 16;
+    }
+
+    .footer-area {
+        padding-top: 15px;
+    }
+
+    .footer-area ul li a {
+        font-size: 14px;
+        padding-right: 40px;
+        padding-left: 40px;
+
+    }
+
+    /*footer area end*/
 }
 
 /*Extra small device(portrant phones, 361px and up)*/
@@ -281,6 +355,7 @@
     /*service part start*/
     .service-area {
         padding-bottom: 10px;
+        text-align: center;
     }
 
     .icon-image {
@@ -302,6 +377,75 @@
 
     /*service part end*/
     /*featured part end*/
+    /*contact-part start*/
+    /*contact-title area start*/
+    .contact-title {
+        text-align: center;
+        padding: 70px 0px 25px 0px;
+    }
+
+    .contact-title h1 {
+        font-size: 25px;
+    }
+
+    .contact-title p {
+        font-size: 13px;
+        width: 95%;
+        margin: 0px 0px 10px 9px;
+    }
+
+    /*contact-title area end*/
+    /*input area start*/
+    .input-part input[type="text"] {
+        font-size: 10px;
+        margin-left: 115px;
+    }
+
+    .form-control {
+        width: 51%
+    }
+
+    .btn-castom {
+        margin-left: 197px;
+        font-size: 10px;
+        margin-top: 20px;
+    }
+
+    /*input area end*/
+    /*social-media-part start*/
+    .social-media-part {
+        padding: 10px 0px;
+    }
+
+    .social-media-part ul li i {
+        background-color: #fcdb00;
+        font-size: 15px;
+        font-weight: 600;
+        width: 20px;
+        height: 20px;
+        padding-top: 4px;
+    }
+
+    /*social-media-part end*/
+    /*contact-part end*/
+    /*footer area start*/
+    .address {
+        text-align: center;
+        padding-bottom: 20px;
+    }
+
+    .footer-area {
+        padding-top: 25px;
+    }
+
+    .footer-area ul li a {
+        font-size: 14px;
+        padding-right: 80px;
+        padding-left: 80px;
+
+    }
+
+    /*footer area end*/
 }
 
 /*Small device(landscape phones, 576px and up)*/
@@ -420,6 +564,7 @@
     /*service part start*/
     .service-area {
         padding-bottom: 10px;
+        text-align: center;
     }
 
     .icon-image {
@@ -441,6 +586,75 @@
 
     /*service part end*/
     /*featured part end*/
+    /*contact-part start*/
+    /*contact-title area start*/
+    .contact-title {
+        text-align: center;
+        padding: 70px 0px 25px 0px;
+    }
+
+    .contact-title h1 {
+        font-size: 25px;
+    }
+
+    .contact-title p {
+        font-size: 13px;
+        width: 95%;
+        margin: 0px 0px 10px 9px;
+    }
+
+    /*contact-title area end*/
+    /*input area start*/
+    .input-part input[type="text"] {
+        font-size: 10px;
+        margin-left: 75px;
+    }
+
+    .form-control {
+        width: 82%
+    }
+
+    .btn-castom {
+        margin-left: 10px;
+        font-size: 10px;
+
+    }
+
+    /*input area end*/
+    /*social-media-part start*/
+    .social-media-part {
+        padding: 10px 0px;
+    }
+
+    .social-media-part ul li i {
+        background-color: #fcdb00;
+        font-size: 15px;
+        font-weight: 600;
+        width: 20px;
+        height: 20px;
+        padding-top: 4px;
+    }
+
+    /*social-media-part end*/
+    /*contact-part end*/
+    /*footer area start*/
+    .address {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .footer-area {
+        padding-top: 30px;
+    }
+
+    .footer-area ul li a {
+        color: #ffffff;
+        font-size: 13px;
+        padding-left: 30px;
+
+    }
+
+    /*footer area end*/
 }
 
 /*medium device(tablets, 768px and up)*/
@@ -550,6 +764,7 @@
     /*service part start*/
     .service-area {
         padding-bottom: 10px;
+        text-align: center;
     }
 
     .icon-image {
@@ -571,6 +786,68 @@
 
     /*service part end*/
     /*featured part end*/
+    /*contact-part start*/
+    /*contact-title area start*/
+    .contact-title {
+        text-align: center;
+        padding: 70px 0px 25px 0px;
+    }
+
+    .contact-title h1 {
+        font-size: 32px;
+    }
+
+    .contact-title p {
+        font-size: 15px;
+        width: 81%;
+        margin: 0px 0px 10px 58px;
+    }
+
+    /*contact-title area end*/
+    /*input area start*/
+    .input-part input[type="text"] {
+        font-size: 16px;
+        margin-left: 136px;
+    }
+
+    .form-control {
+        width: 71%
+    }
+
+    .btn-castom {
+        margin-left: 5px;
+        font-size: 16px;
+
+    }
+
+    /*input area end*/
+    /*social-media-part start*/
+    .social-media-part {
+        padding: 10px 0px;
+    }
+
+    .social-media-part ul li i {
+        background-color: #fcdb00;
+        font-size: 15px;
+        font-weight: 600;
+        width: 20px;
+        height: 20px;
+        padding-top: 4px;
+    }
+
+    /*social-media-part end*/
+    /*contact-part end*/
+    /*footer area start*/
+    .footer-area ul li a {
+        color: #ffffff;
+        font-size: 13px;
+        font-weight: 400;
+        padding-left: 10px;
+        padding-right: 40px;
+
+    }
+
+    /*footer area end*/
 }
 
 /*large device(desktops, 992px and up)*/
@@ -656,6 +933,51 @@
 
     /*service part end*/
     /*featured part end*/
+    /*contact-part start*/
+    /*contact-title area start*/
+    .contact-title {
+        text-align: center;
+        padding: 70px 0px 25px 0px;
+    }
+
+    .contact-title p {
+        font-size: 17px;
+        width: 68%;
+        margin: 0px 0px 10px 132px;
+    }
+
+    /*contact-title area end*/
+    /*input area start*/
+    .input-part input[type="text"] {
+        font-size: 16px;
+        margin-left: 184px;
+    }
+
+    .form-control {
+        width: 71%
+    }
+
+    .btn-castom {
+        margin-left: 5px;
+        font-size: 16px;
+    }
+
+    /*input area end*/
+    /*social-media-part start*/
+    .social-media-part {
+        padding: 20px 0px;
+    }
+
+    /*social-media-part end*/
+    /*contact-part end*/
+    /*footer area start*/
+    .footer-area ul li a {
+        padding-left: 40px;
+        padding-right: 40px;
+
+    }
+
+    /*footer area end*/
 
 }
 
